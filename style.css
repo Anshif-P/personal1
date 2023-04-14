@@ -1,0 +1,11 @@
+.hobi-img{
+    width: 300px;
+    height: 300px;
+
+}
+#row1{
+    display:flex;
+}
+.img-gala-ftq{
+    border:1px solid black;
+}
